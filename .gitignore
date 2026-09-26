@@ -1,0 +1,4 @@
+﻿data/raw/*.pdf
+data/processed/psp.db
+__pycache__/
+*.pyc
